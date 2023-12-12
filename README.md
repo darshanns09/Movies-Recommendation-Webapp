@@ -8,4 +8,3 @@
   
 - Achieved a 60% reduction in scrolling time, offering users top-notch movie choices immediately.
 
- URL :- https://darshan-movies-reommend-system.streamlit.app/
