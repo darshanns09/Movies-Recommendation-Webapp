@@ -8,3 +8,5 @@
   
 - Achieved a 60% reduction in scrolling time, offering users top-notch movie choices immediately.
 
+
+## You can view the actual app by running the "app.py" file.
